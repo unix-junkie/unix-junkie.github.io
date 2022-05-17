@@ -1,0 +1,4 @@
+https://unix-junkie.github.io/docs/
+https://unix-junkie.github.io/docs/makefile-projects-in-clion/
+https://unix-junkie.github.io/docs/opening-linux-kernel-in-clion/
+https://unix-junkie.github.io/ancient-ides/
